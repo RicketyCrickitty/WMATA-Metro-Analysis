@@ -1,0 +1,21 @@
+Field,Definition
+SERVICE_DAY,"Weekdays, Saturdays or Sundays"
+TIME_PERIOD,"AM Early = 4am-5:59am
+AM Peak = 6am-8:59am
+Midday = 9am-2:59pm
+PM Peak = 3pm-6:59pm
+Early Night = 7pm-10:59pm
+Late Night = 11pm-11:59pm
+Late Night = 12am-3:59am"
+ROUTE_NAME,Route Number
+DIRECTION_NAME,Route direction
+SORT_ORDER,Stop sequence
+STOP_ID,Stop ID
+STOP,Stop description
+AVG_LOAD,Average passenger load per trip
+MAX_LOAD,Average maximum passenger load per trip
+SUM_PASSENGERS_ON,Daily average passenger boardings
+SUM_PASSENGERS_OFF,Daily average passenger alightings
+SUM_LOAD,Daily average passenger load
+LAT,Scheduled Latitude
+LON,Scheduled Longitude
