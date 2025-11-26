@@ -1,0 +1,1840 @@
+<StationsResp xmlns="http://www.wmata.com" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <Stations>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>607 13th St. NW</Street>
+                <Zip>20005</Zip>
+            </Address>
+            <Code>A01</Code>
+            <Lat>38.898303</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.028099</Lon>
+            <Name>Metro Center</Name>
+            <StationTogether1>C01</StationTogether1>
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>1001 Connecticut Avenue NW</Street>
+                <Zip>20036</Zip>
+            </Address>
+            <Code>A02</Code>
+            <Lat>38.903192</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.039766</Lon>
+            <Name>Farragut North</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>1525 20th St. NW</Street>
+                <Zip>20036</Zip>
+            </Address>
+            <Code>A03</Code>
+            <Lat>38.909499</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.04362</Lon>
+            <Name>Dupont Circle</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>2700 Connecticut Ave., NW</Street>
+                <Zip>20008</Zip>
+            </Address>
+            <Code>A04</Code>
+            <Lat>38.924999</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.052648</Lon>
+            <Name>Woodley Park-Zoo/Adams Morgan</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>3599 Connecticut Avenue NW</Street>
+                <Zip>20008</Zip>
+            </Address>
+            <Code>A05</Code>
+            <Lat>38.934703</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.058226</Lon>
+            <Name>Cleveland Park</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>4200 Connecticut Ave NW</Street>
+                <Zip>20008</Zip>
+            </Address>
+            <Code>A06</Code>
+            <Lat>38.94362</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.063511</Lon>
+            <Name>Van Ness-UDC</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>4501 Wisconsin Ave NW</Street>
+                <Zip>20016</Zip>
+            </Address>
+            <Code>A07</Code>
+            <Lat>38.947808</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.079615</Lon>
+            <Name>Tenleytown-AU</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>5337 Wisconsin Avenue NW</Street>
+                <Zip>20015</Zip>
+            </Address>
+            <Code>A08</Code>
+            <Lat>38.960744</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.085969</Lon>
+            <Name>Friendship Heights</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Bethesda</City>
+                <State>MD</State>
+                <Street>800 North Ln</Street>
+                <Zip>20814</Zip>
+            </Address>
+            <Code>A09</Code>
+            <Lat>38.984282</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.094431</Lon>
+            <Name>Bethesda</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Bethesda</City>
+                <State>MD</State>
+                <Street>8810 Rockville Pike</Street>
+                <Zip>20814</Zip>
+            </Address>
+            <Code>A10</Code>
+            <Lat>38.999947</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.097253</Lon>
+            <Name>Medical Center</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>North Bethesda</City>
+                <State>MD</State>
+                <Street>5301 Tuckerman Ln</Street>
+                <Zip>20852</Zip>
+            </Address>
+            <Code>A11</Code>
+            <Lat>39.029158</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.10415</Lon>
+            <Name>Grosvenor-Strathmore</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>North Bethesda</City>
+                <State>MD</State>
+                <Street>10000 Citadel Ave</Street>
+                <Zip>20852</Zip>
+            </Address>
+            <Code>A12</Code>
+            <Lat>39.048043</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.113131</Lon>
+            <Name>North Bethesda</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Rockville</City>
+                <State>MD</State>
+                <Street>1600 Chapman Ave</Street>
+                <Zip>20852</Zip>
+            </Address>
+            <Code>A13</Code>
+            <Lat>39.062359</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.121113</Lon>
+            <Name>Twinbrook</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Rockville</City>
+                <State>MD</State>
+                <Street>251 Hungerford Dr</Street>
+                <Zip>20850</Zip>
+            </Address>
+            <Code>A14</Code>
+            <Lat>39.084215</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.146424</Lon>
+            <Name>Rockville</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Rockville</City>
+                <State>MD</State>
+                <Street>215903 Somerville Dr</Street>
+                <Zip>20855</Zip>
+            </Address>
+            <Code>A15</Code>
+            <Lat>39.119819</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.164921</Lon>
+            <Name>Shady Grove</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>630 H St. NW</Street>
+                <Zip>20001</Zip>
+            </Address>
+            <Code>B01</Code>
+            <Lat>38.89834</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.021851</Lon>
+            <Name>Gallery Pl-Chinatown</Name>
+            <StationTogether1>F01</StationTogether1>
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>450 F Street NW</Street>
+                <Zip>20001</Zip>
+            </Address>
+            <Code>B02</Code>
+            <Lat>38.896084</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.016643</Lon>
+            <Name>Judiciary Square</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>701 First St. NE</Street>
+                <Zip>20002</Zip>
+            </Address>
+            <Code>B03</Code>
+            <Lat>38.897723</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.006745</Lon>
+            <Name>Union Station</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>2300 Washington Pl NE</Street>
+                <Zip>20018</Zip>
+            </Address>
+            <Code>B04</Code>
+            <Lat>38.920741</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.995984</Lon>
+            <Name>Rhode Island Ave-Brentwood</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>801 Michigan Ave NE</Street>
+                <Zip>20017</Zip>
+            </Address>
+            <Code>B05</Code>
+            <Lat>38.933234</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.994544</Lon>
+            <Name>Brookland-CUA</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>550 Galloway St NE</Street>
+                <Zip>20011</Zip>
+            </Address>
+            <Code>B06</Code>
+            <Lat>38.951777</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.002174</Lon>
+            <Name>Fort Totten</Name>
+            <StationTogether1>E06</StationTogether1>
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>327 Cedar St NW</Street>
+                <Zip>20012</Zip>
+            </Address>
+            <Code>B07</Code>
+            <Lat>38.975532</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.017834</Lon>
+            <Name>Takoma</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Silver Spring</City>
+                <State>MD</State>
+                <Street>8400 Colesville Rd</Street>
+                <Zip>20910</Zip>
+            </Address>
+            <Code>B08</Code>
+            <Lat>38.993841</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.031321</Lon>
+            <Name>Silver Spring</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Silver Spring</City>
+                <State>MD</State>
+                <Street>9730 Georgia Ave</Street>
+                <Zip>20910</Zip>
+            </Address>
+            <Code>B09</Code>
+            <Lat>39.015413</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.042953</Lon>
+            <Name>Forest Glen</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Wheaton</City>
+                <State>MD</State>
+                <Street>11171 Georgia Ave</Street>
+                <Zip>20902</Zip>
+            </Address>
+            <Code>B10</Code>
+            <Lat>39.038558</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.051098</Lon>
+            <Name>Wheaton</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Silver Spring</City>
+                <State>MD</State>
+                <Street>12601 Georgia Ave</Street>
+                <Zip>20906</Zip>
+            </Address>
+            <Code>B11</Code>
+            <Lat>39.061713</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.05341</Lon>
+            <Name>Glenmont</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>200 Florida Ave N.E.</Street>
+                <Zip>20002</Zip>
+            </Address>
+            <Code>B35</Code>
+            <Lat>38.907407</Lat>
+            <LineCode1>RD</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.002961</Lon>
+            <Name>NoMa-Gallaudet U</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>607 13th St. NW</Street>
+                <Zip>20005</Zip>
+            </Address>
+            <Code>C01</Code>
+            <Lat>38.898303</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.028099</Lon>
+            <Name>Metro Center</Name>
+            <StationTogether1>A01</StationTogether1>
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>1400 I St. NW</Street>
+                <Zip>20005</Zip>
+            </Address>
+            <Code>C02</Code>
+            <Lat>38.901316</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.033652</Lon>
+            <Name>McPherson Square</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>900 18th St. NW</Street>
+                <Zip>20006</Zip>
+            </Address>
+            <Code>C03</Code>
+            <Lat>38.901311</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.03981</Lon>
+            <Name>Farragut West</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>2301 I St. NW</Street>
+                <Zip>20037</Zip>
+            </Address>
+            <Code>C04</Code>
+            <Lat>38.900599</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.050273</Lon>
+            <Name>Foggy Bottom-GWU</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>1850 N. Moore Street</Street>
+                <Zip>22209</Zip>
+            </Address>
+            <Code>C05</Code>
+            <Lat>38.896595</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.07146</Lon>
+            <Name>Rosslyn</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>1000 North Memorial Drive</Street>
+                <Zip>22211</Zip>
+            </Address>
+            <Code>C06</Code>
+            <Lat>38.884574</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.063108</Lon>
+            <Name>Arlington Cemetery</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>2 South Rotary Road</Street>
+                <Zip>22202</Zip>
+            </Address>
+            <Code>C07</Code>
+            <Lat>38.869349</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.054013</Lon>
+            <Name>Pentagon</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>1250 South Hayes St.</Street>
+                <Zip>22202</Zip>
+            </Address>
+            <Code>C08</Code>
+            <Lat>38.863045</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.059507</Lon>
+            <Name>Pentagon City</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>1750 S. Bell St.</Street>
+                <Zip>22202</Zip>
+            </Address>
+            <Code>C09</Code>
+            <Lat>38.85779</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.050589</Lon>
+            <Name>Crystal City</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>2400 S. Smith Blvd.</Street>
+                <Zip>22202</Zip>
+            </Address>
+            <Code>C10</Code>
+            <Lat>38.852985</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.043805</Lon>
+            <Name>Ronald Reagan Washington National Airport</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Alexandria</City>
+                <State>VA</State>
+                <Street>2900 Potomac Greens Drive</Street>
+                <Zip>22314</Zip>
+            </Address>
+            <Code>C11</Code>
+            <Lat>38.83321</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.04642</Lon>
+            <Name>Potomac Yard</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Alexandria</City>
+                <State>VA</State>
+                <Street>700 N West St</Street>
+                <Zip>22314</Zip>
+            </Address>
+            <Code>C12</Code>
+            <Lat>38.814009</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.053763</Lon>
+            <Name>Braddock Road</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Alexandria</City>
+                <State>VA</State>
+                <Street>1900 King Street</Street>
+                <Zip>22301</Zip>
+            </Address>
+            <Code>C13</Code>
+            <Lat>38.806474</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.061115</Lon>
+            <Name>King St-Old Town</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Alexandria</City>
+                <State>VA</State>
+                <Street>2400 Eisenhower Ave</Street>
+                <Zip>22314</Zip>
+            </Address>
+            <Code>C14</Code>
+            <Lat>38.800313</Lat>
+            <LineCode1>YL</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.071173</Lon>
+            <Name>Eisenhower Avenue</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Alexandria</City>
+                <State>VA</State>
+                <Street>2701 Huntington Ave</Street>
+                <Zip>22303</Zip>
+            </Address>
+            <Code>C15</Code>
+            <Lat>38.793841</Lat>
+            <LineCode1>YL</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.075301</Lon>
+            <Name>Huntington</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>302 12th St. NW</Street>
+                <Zip>20004</Zip>
+            </Address>
+            <Code>D01</Code>
+            <Lat>38.893757</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.028218</Lon>
+            <Name>Federal Triangle</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>1200 Independence Avenue SW</Street>
+                <Zip>20004</Zip>
+            </Address>
+            <Code>D02</Code>
+            <Lat>38.888022</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.028232</Lon>
+            <Name>Smithsonian</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>600 Maryland Avenue SW</Street>
+                <Zip>20024</Zip>
+            </Address>
+            <Code>D03</Code>
+            <Lat>38.884775</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.021964</Lon>
+            <Name>L'Enfant Plaza</Name>
+            <StationTogether1>F03</StationTogether1>
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>401 3rd Street SW</Street>
+                <Zip>20024</Zip>
+            </Address>
+            <Code>D04</Code>
+            <Lat>38.884958</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.01586</Lon>
+            <Name>Federal Center SW</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>355 First Street SE</Street>
+                <Zip>20003</Zip>
+            </Address>
+            <Code>D05</Code>
+            <Lat>38.884968</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-77.005137</Lon>
+            <Name>Capitol South</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>701 Pennsylvania Avenue SE</Street>
+                <Zip>20003</Zip>
+            </Address>
+            <Code>D06</Code>
+            <Lat>38.884124</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-76.995334</Lon>
+            <Name>Eastern Market</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>700 14th Street SE</Street>
+                <Zip>20003</Zip>
+            </Address>
+            <Code>D07</Code>
+            <Lat>38.880841</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-76.985721</Lon>
+            <Name>Potomac Ave</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>192 19th St. SE</Street>
+                <Zip>20003</Zip>
+            </Address>
+            <Code>D08</Code>
+            <Lat>38.88594</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>OR</LineCode2>
+            <LineCode3>SV</LineCode3>
+            <LineCode4 i:nil="true" />
+            <Lon>-76.977485</Lon>
+            <Name>Stadium-Armory</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>4000 Minnesota Ave NE</Street>
+                <Zip>20019</Zip>
+            </Address>
+            <Code>D09</Code>
+            <Lat>38.898284</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.948042</Lon>
+            <Name>Minnesota Ave</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>4720 Minnesota Ave NE</Street>
+                <Zip>20019</Zip>
+            </Address>
+            <Code>D10</Code>
+            <Lat>38.907734</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.936177</Lon>
+            <Name>Deanwood</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Cheverly</City>
+                <State>MD</State>
+                <Street>5501 Columbia Park Rd</Street>
+                <Zip>20785</Zip>
+            </Address>
+            <Code>D11</Code>
+            <Lat>38.91652</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.915427</Lon>
+            <Name>Cheverly</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Landover</City>
+                <State>MD</State>
+                <Street>3000 Pennsy Dr</Street>
+                <Zip>20785</Zip>
+            </Address>
+            <Code>D12</Code>
+            <Lat>38.934411</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.890988</Lon>
+            <Name>Landover</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>New Carrollton</City>
+                <State>MD</State>
+                <Street>4700 Garden City Dr</Street>
+                <Zip>20784</Zip>
+            </Address>
+            <Code>D13</Code>
+            <Lat>38.947674</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.872144</Lon>
+            <Name>New Carrollton</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>700 M St. NW</Street>
+                <Zip>20001</Zip>
+            </Address>
+            <Code>E01</Code>
+            <Lat>38.905604</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.022256</Lon>
+            <Name>Mt Vernon Sq 7th St-Convention Center</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>1701 8th St. NW</Street>
+                <Zip>20001</Zip>
+            </Address>
+            <Code>E02</Code>
+            <Lat>38.912919</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.022194</Lon>
+            <Name>Shaw-Howard U</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>1240 U Street NW</Street>
+                <Zip>20009</Zip>
+            </Address>
+            <Code>E03</Code>
+            <Lat>38.916489</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.028938</Lon>
+            <Name>U Street/African-Amer Civil War Memorial/Cardozo</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>3030 14th St. NW</Street>
+                <Zip>20009</Zip>
+            </Address>
+            <Code>E04</Code>
+            <Lat>38.928672</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.032775</Lon>
+            <Name>Columbia Heights</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>3700 Georgia Avenue NW</Street>
+                <Zip>20010</Zip>
+            </Address>
+            <Code>E05</Code>
+            <Lat>38.936077</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.024728</Lon>
+            <Name>Georgia Ave-Petworth</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>550 Galloway St NE</Street>
+                <Zip>20011</Zip>
+            </Address>
+            <Code>E06</Code>
+            <Lat>38.951777</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.002174</Lon>
+            <Name>Fort Totten</Name>
+            <StationTogether1>B06</StationTogether1>
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Hyattsville</City>
+                <State>MD</State>
+                <Street>2700 Hamilton St</Street>
+                <Zip>20782</Zip>
+            </Address>
+            <Code>E07</Code>
+            <Lat>38.954931</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.969881</Lon>
+            <Name>West Hyattsville</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Hyattsville</City>
+                <State>MD</State>
+                <Street>3575 East-West Hwy</Street>
+                <Zip>20782</Zip>
+            </Address>
+            <Code>E08</Code>
+            <Lat>38.965276</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.956182</Lon>
+            <Name>Hyattsville Crossing</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>College Park</City>
+                <State>MD</State>
+                <Street>4931 Calvert Rd</Street>
+                <Zip>20740</Zip>
+            </Address>
+            <Code>E09</Code>
+            <Lat>38.978523</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.928432</Lon>
+            <Name>College Park-U of Md</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Beltsville</City>
+                <State>MD</State>
+                <Street>5500 Greenbelt Metro Dr</Street>
+                <Zip>20705</Zip>
+            </Address>
+            <Code>E10</Code>
+            <Lat>39.011036</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.911362</Lon>
+            <Name>Greenbelt</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>630 H St. NW</Street>
+                <Zip>20001</Zip>
+            </Address>
+            <Code>F01</Code>
+            <Lat>38.89834</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.021851</Lon>
+            <Name>Gallery Pl-Chinatown</Name>
+            <StationTogether1>B01</StationTogether1>
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>701 Pennsylvania Avenue NW</Street>
+                <Zip>20004</Zip>
+            </Address>
+            <Code>F02</Code>
+            <Lat>38.893893</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.021902</Lon>
+            <Name>Archives-Navy Memorial-Penn Quarter</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>600 Maryland Avenue SW</Street>
+                <Zip>20024</Zip>
+            </Address>
+            <Code>F03</Code>
+            <Lat>38.884775</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2>YL</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.021964</Lon>
+            <Name>L'Enfant Plaza</Name>
+            <StationTogether1>D03</StationTogether1>
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>399 M Street SW</Street>
+                <Zip>20024</Zip>
+            </Address>
+            <Code>F04</Code>
+            <Lat>38.876221</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.017491</Lon>
+            <Name>Waterfront</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>200 M Street SE</Street>
+                <Zip>20003</Zip>
+            </Address>
+            <Code>F05</Code>
+            <Lat>38.876588</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.005086</Lon>
+            <Name>Navy Yard-Ballpark</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>1101 Howard Rd SE</Street>
+                <Zip>20020</Zip>
+            </Address>
+            <Code>F06</Code>
+            <Lat>38.862072</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.995648</Lon>
+            <Name>Anacostia</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>1290 Alabama Ave SE</Street>
+                <Zip>20020</Zip>
+            </Address>
+            <Code>F07</Code>
+            <Lat>38.845334</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.98817</Lon>
+            <Name>Congress Heights</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Hillcrest Heights</City>
+                <State>MD</State>
+                <Street>1411 Southern Ave SE</Street>
+                <Zip>20748</Zip>
+            </Address>
+            <Code>F08</Code>
+            <Lat>38.840974</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.97536</Lon>
+            <Name>Southern Avenue</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Hillcrest Heights</City>
+                <State>MD</State>
+                <Street>3226 Naylor Rd</Street>
+                <Zip>20748</Zip>
+            </Address>
+            <Code>F09</Code>
+            <Lat>38.851187</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.956565</Lon>
+            <Name>Naylor Road</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Suitland</City>
+                <State>MD</State>
+                <Street>4500 Silver Hill Rd</Street>
+                <Zip>20746</Zip>
+            </Address>
+            <Code>F10</Code>
+            <Lat>38.843891</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.932022</Lon>
+            <Name>Suitland</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Suitland</City>
+                <State>MD</State>
+                <Street>4707 Old Soper Rd</Street>
+                <Zip>20746</Zip>
+            </Address>
+            <Code>F11</Code>
+            <Lat>38.826995</Lat>
+            <LineCode1>GR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.912134</Lon>
+            <Name>Branch Ave</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Washington</City>
+                <State>DC</State>
+                <Street>4500 Benning Rd NE</Street>
+                <Zip>20019</Zip>
+            </Address>
+            <Code>G01</Code>
+            <Lat>38.890488</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.938291</Lon>
+            <Name>Benning Road</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Capitol Heights</City>
+                <State>MD</State>
+                <Street>133 Central Ave</Street>
+                <Zip>20743</Zip>
+            </Address>
+            <Code>G02</Code>
+            <Lat>38.889757</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.913382</Lon>
+            <Name>Capitol Heights</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Capitol Heights</City>
+                <State>MD</State>
+                <Street>100 Addison Rd S</Street>
+                <Zip>20743</Zip>
+            </Address>
+            <Code>G03</Code>
+            <Lat>38.886713</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.893592</Lon>
+            <Name>Addison Road-Seat Pleasant</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Landover</City>
+                <State>MD</State>
+                <Street>401 Garrett A Morgan Blvd</Street>
+                <Zip>20785</Zip>
+            </Address>
+            <Code>G04</Code>
+            <Lat>38.8913</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.8682</Lon>
+            <Name>Morgan Boulevard</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Largo</City>
+                <State>MD</State>
+                <Street>9000 Lottsford Rd</Street>
+                <Zip>20774</Zip>
+            </Address>
+            <Code>G05</Code>
+            <Lat>38.9008</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-76.8449</Lon>
+            <Name>Downtown Largo</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Alexandria</City>
+                <State>VA</State>
+                <Street>5690 Eisenhower Ave</Street>
+                <Zip>22310</Zip>
+            </Address>
+            <Code>J02</Code>
+            <Lat>38.799193</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.129407</Lon>
+            <Name>Van Dorn Street</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Springfield</City>
+                <State>VA</State>
+                <Street>6880 Frontier Dr</Street>
+                <Zip>22150</Zip>
+            </Address>
+            <Code>J03</Code>
+            <Lat>38.766129</Lat>
+            <LineCode1>BL</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.168797</Lon>
+            <Name>Franconia-Springfield</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>2100 Wilson Blvd</Street>
+                <Zip>22201</Zip>
+            </Address>
+            <Code>K01</Code>
+            <Lat>38.891499</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.08391</Lon>
+            <Name>Court House</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>3100 Wilson Blvd</Street>
+                <Zip>22201</Zip>
+            </Address>
+            <Code>K02</Code>
+            <Lat>38.886373</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.096963</Lon>
+            <Name>Clarendon</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>3600 Fairfax Drive</Street>
+                <Zip>22201</Zip>
+            </Address>
+            <Code>K03</Code>
+            <Lat>38.88331</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.104267</Lon>
+            <Name>Virginia Square-GMU</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>4230 Fairfax Drive</Street>
+                <Zip>22201</Zip>
+            </Address>
+            <Code>K04</Code>
+            <Lat>38.882071</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.111845</Lon>
+            <Name>Ballston-MU</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Arlington</City>
+                <State>VA</State>
+                <Street>2001 N Sycamore St</Street>
+                <Zip>22205</Zip>
+            </Address>
+            <Code>K05</Code>
+            <Lat>38.885841</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2>SV</LineCode2>
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.157177</Lon>
+            <Name>East Falls Church</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Falls Church</City>
+                <State>VA</State>
+                <Street>7040 Haycock Rd</Street>
+                <Zip>22043</Zip>
+            </Address>
+            <Code>K06</Code>
+            <Lat>38.90067</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.189394</Lon>
+            <Name>West Falls Church</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Vienna</City>
+                <State>VA</State>
+                <Street>2700 Gallows Rd</Street>
+                <Zip>22180</Zip>
+            </Address>
+            <Code>K07</Code>
+            <Lat>38.883015</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.228939</Lon>
+            <Name>Dunn Loring-Merrifield</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Fairfax</City>
+                <State>VA</State>
+                <Street>9550 Saintsbury Dr</Street>
+                <Zip>22031</Zip>
+            </Address>
+            <Code>K08</Code>
+            <Lat>38.877693</Lat>
+            <LineCode1>OR</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.271562</Lon>
+            <Name>Vienna/Fairfax-GMU</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>McLean</City>
+                <State>VA</State>
+                <Street>1824 Dolley Madison Boulevard</Street>
+                <Zip>22102</Zip>
+            </Address>
+            <Code>N01</Code>
+            <Lat>38.924478</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.210167</Lon>
+            <Name>McLean</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>McLean</City>
+                <State>VA</State>
+                <Street>1943 Chain Bridge Road</Street>
+                <Zip>22102</Zip>
+            </Address>
+            <Code>N02</Code>
+            <Lat>38.920056</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.223314</Lon>
+            <Name>Tysons</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Vienna</City>
+                <State>VA</State>
+                <Street>8305 Leesburg Pike</Street>
+                <Zip>22182</Zip>
+            </Address>
+            <Code>N03</Code>
+            <Lat>38.919749</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.235192</Lon>
+            <Name>Greensboro</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Vienna</City>
+                <State>VA</State>
+                <Street>1576 Spring Hill Road</Street>
+                <Zip>22182</Zip>
+            </Address>
+            <Code>N04</Code>
+            <Lat>38.929273</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.241988</Lon>
+            <Name>Spring Hill</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Reston</City>
+                <State>VA</State>
+                <Street>1908 Reston Station Blvd</Street>
+                <Zip>20190</Zip>
+            </Address>
+            <Code>N06</Code>
+            <Lat>38.947753</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.340179</Lon>
+            <Name>Wiehle-Reston East</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Reston</City>
+                <State>VA</State>
+                <Street>1998 Edmund Halley Drive</Street>
+                <Zip>20191</Zip>
+            </Address>
+            <Code>N07</Code>
+            <Lat>38.952768</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.360185</Lon>
+            <Name>Reston Town Center</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Herndon</City>
+                <State>VA</State>
+                <Street>12530 Sunrise Valley Dr</Street>
+                <Zip>20191</Zip>
+            </Address>
+            <Code>N08</Code>
+            <Lat>38.952821</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.385178</Lon>
+            <Name>Herndon</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Herndon</City>
+                <State>VA</State>
+                <Street>13747-A Sunrise Valley Dr</Street>
+                <Zip>20171</Zip>
+            </Address>
+            <Code>N09</Code>
+            <Lat>38.960758</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.415295</Lon>
+            <Name>Innovation Center</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Dulles</City>
+                <State>VA</State>
+                <Street>44920 Saarinen Circle</Street>
+                <Zip>20166</Zip>
+            </Address>
+            <Code>N10</Code>
+            <Lat>38.955784</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.448148</Lon>
+            <Name>Washington Dulles International Airport</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Ashburn</City>
+                <State>VA</State>
+                <Street>22505 Lockridge Rd</Street>
+                <Zip>20166</Zip>
+            </Address>
+            <Code>N11</Code>
+            <Lat>38.99204</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.460685</Lon>
+            <Name>Loudoun Gateway</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+        <Station>
+            <Address>
+                <City>Ashburn</City>
+                <State>VA</State>
+                <Street>43624 Croson Ln</Street>
+                <Zip>20148</Zip>
+            </Address>
+            <Code>N12</Code>
+            <Lat>39.005283</Lat>
+            <LineCode1>SV</LineCode1>
+            <LineCode2 i:nil="true" />
+            <LineCode3 i:nil="true" />
+            <LineCode4 i:nil="true" />
+            <Lon>-77.491537</Lon>
+            <Name>Ashburn</Name>
+            <StationTogether1 />
+            <StationTogether2 />
+        </Station>
+    </Stations>
+</StationsResp>
