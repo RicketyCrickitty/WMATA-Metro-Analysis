@@ -1,8 +1,8 @@
 # DC Metro Analysis
 
-## Data Description
+## See [here](https://github.com/RicketyCrickitty/WMATA-Metro-Analysis.git) for report detailing results.
 
-**./MetroRidership Summary Dataset Request20251123125339/** -> This is the raw data sourced from WMATA in excel format
+## Data Description
 
 **./data/api_data/** -> contains station distance data in CSV sourced using WMATA API
 
